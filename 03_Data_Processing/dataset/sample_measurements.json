@@ -1,0 +1,10 @@
+﻿[
+  { "id": "M-041", "point": "P-041", "zone": "Lab corridor", "rssi": -48, "latency": 18, "loss": 0.2, "throughput": 87, "channel": "36 / 5 GHz", "status": "Good" },
+  { "id": "M-040", "point": "P-040", "zone": "Data lab", "rssi": -61, "latency": 27, "loss": 0.8, "throughput": 61, "channel": "36 / 5 GHz", "status": "Watch" },
+  { "id": "M-039", "point": "P-039", "zone": "Stairwell B", "rssi": -74, "latency": 46, "loss": 3.4, "throughput": 28, "channel": "11 / 2.4 GHz", "status": "Weak" },
+  { "id": "M-038", "point": "P-038", "zone": "Seminar room", "rssi": -56, "latency": 21, "loss": 0.5, "throughput": 72, "channel": "44 / 5 GHz", "status": "Good" },
+  { "id": "M-037", "point": "P-037", "zone": "Faculty office", "rssi": -67, "latency": 34, "loss": 1.9, "throughput": 42, "channel": "11 / 2.4 GHz", "status": "Watch" },
+  { "id": "M-036", "point": "P-036", "zone": "Library reading hall", "rssi": -51, "latency": 19, "loss": 0.3, "throughput": 82, "channel": "40 / 5 GHz", "status": "Good" },
+  { "id": "M-035", "point": "P-035", "zone": "East elevator lobby", "rssi": -78, "latency": 52, "loss": 4.1, "throughput": 21, "channel": "6 / 2.4 GHz", "status": "Weak" },
+  { "id": "M-034", "point": "P-034", "zone": "Conference room A", "rssi": -58, "latency": 23, "loss": 0.6, "throughput": 68, "channel": "48 / 5 GHz", "status": "Good" }
+]
