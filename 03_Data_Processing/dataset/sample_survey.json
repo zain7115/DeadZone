@@ -1,0 +1,13 @@
+﻿{
+  "surveyId": "DZ-2026-10-14",
+  "building": "North Block",
+  "floor": "2nd floor",
+  "pointsTotal": 48,
+  "mapPoints": [
+    { "id": "P-041", "x": 23, "y": 25, "tone": "good", "zone": "Lab corridor" },
+    { "id": "P-040", "x": 47, "y": 33, "tone": "watch", "zone": "Data lab" },
+    { "id": "P-039", "x": 74, "y": 59, "tone": "weak", "zone": "Stairwell B" },
+    { "id": "P-038", "x": 33, "y": 68, "tone": "good", "zone": "Seminar room" },
+    { "id": "P-037", "x": 58, "y": 78, "tone": "watch", "zone": "Faculty office" }
+  ]
+}

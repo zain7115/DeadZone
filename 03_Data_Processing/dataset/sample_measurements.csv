@@ -1,0 +1,9 @@
+﻿id,point,zone,rssi,latency,loss,throughput,channel,status
+M-041,P-041,Lab corridor,-48,18,0.2,87,36 / 5 GHz,Good
+M-040,P-040,Data lab,-61,27,0.8,61,36 / 5 GHz,Watch
+M-039,P-039,Stairwell B,-74,46,3.4,28,11 / 2.4 GHz,Weak
+M-038,P-038,Seminar room,-56,21,0.5,72,44 / 5 GHz,Good
+M-037,P-037,Faculty office,-67,34,1.9,42,11 / 2.4 GHz,Watch
+M-036,P-036,Library reading hall,-51,19,0.3,82,40 / 5 GHz,Good
+M-035,P-035,East elevator lobby,-78,52,4.1,21,6 / 2.4 GHz,Weak
+M-034,P-034,Conference room A,-58,23,0.6,68,48 / 5 GHz,Good
